@@ -1,0 +1,13 @@
+# Dependency ranges; developed and tested on CPython 3.14.
+groq>=1.7,<2
+pydantic>=2.13,<3
+pydantic-settings>=2.15,<3
+python-dotenv>=1.2,<2
+requests>=2.34,<3
+beautifulsoup4>=4.15,<5
+pypdf>=5,<7
+ddgs>=9.16,<10
+streamlit>=1.65,<2
+
+# Development and testing
+pytest>=9.1,<10
